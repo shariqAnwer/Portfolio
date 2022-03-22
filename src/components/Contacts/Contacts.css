@@ -24,13 +24,12 @@
     padding: 2rem 6rem 3rem;
     width: 80%;
     height: 100%;
-    margin-top: 2rem;
 }
 
 .contacts--container > h1 {
     font-family: var(--primaryFont);
     font-size: 3.5rem;
-    margin-bottom: 2.5rem;
+    margin-bottom: 1.5rem;
 
 }
 
@@ -57,27 +56,27 @@
 }
 
 .input-container {
-    width: 110%;
+    width: 100%;
 }
 
 
 .form-input {
-    height: 70px;
+    height: 45px;
     box-sizing: border-box;
     border-radius: 50px; 
     outline: none;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     padding: 0.7rem 0.7rem;
     border-radius: 20px;
     width: 100%; 
     resize: none;
-    font-size: 24px;
+    font-size: 18px;
 }
 
 
 
 .form-message {
-    height: 180px;
+    height: 150px;
     box-sizing: border-box;
     border-radius: 50px; 
     outline: none;
@@ -86,7 +85,7 @@
     border-radius: 20px;
     width: 100%;
     resize: none;
-    font-size: 24px;
+    font-size: 18px;
 
 }
 
@@ -95,8 +94,8 @@
 .submit-btn button {
     border: none;
     outline: none;
-    width: 150px;
-    height: 70px;
+    width: 120px;
+    height: 50px;
     border-radius: 50px;
     font-weight: 500;
     display: flex;
@@ -107,7 +106,7 @@
 }
 
 .submit-btn button p {
-    font-size: 25px;
+    font-size: 20px;
     font-family: var(--primaryFont);
 }
 
@@ -118,7 +117,7 @@
     padding: 5px;
 }
 .send-icon {
-    font-size: 25px;
+    font-size: 20px;
     transform-origin: center;
     transform: translate(5px,-3px) rotate(-30deg);
 }
@@ -147,14 +146,14 @@
     align-items: center;
     justify-content: flex-start;
     width: 100%;
-    margin-bottom: 2.5rem;
-    margin-left: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
 }
 
 .personal-details p {
     margin-left: 1.5rem;
-    font-size: 25px;
-    line-height: 110%;
+    font-size: 20px;
+    line-height: 100%;
     font-weight: 500;
     font-family: var(--primaryFont);
     width: 60%;
@@ -162,14 +161,14 @@
 }
 
 .socialmedia-icons {
-    width: 90%;
+    width: 80%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     gap: 1.5rem;
     margin-top: 4rem;
-    margin-left: -183px;
+    margin-left: -116px;
 }
 
 
