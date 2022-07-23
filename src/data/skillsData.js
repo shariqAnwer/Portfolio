@@ -1,16 +1,15 @@
- export const skillsData = [
-    'HTML',
-    'Javascript',
-    'CSS',
-    'React',
-    'MongoDB',
-    'Node JS',
-    'Git'
-]
+export const skillsData = [
+  "HTML",
+  "Javascript",
+  "CSS",
+  "React",
+  "MongoDB",
+  "NodeJS",
+  "Git",
+];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
-
 
 // AVAILABLE SKILLS
 
@@ -19,6 +18,7 @@
     CSS
     JS 
     React
+    NodeJS
     Next JS
     Nuxt JS
     Node JS
