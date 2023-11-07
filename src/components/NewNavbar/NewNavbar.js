@@ -29,6 +29,8 @@ import { useContext } from "react";
 
 const NewNavbar = () => {
   const [colorChange, setColorchange] = useState(false);
+  const { theme, setHandleDrawer } = useContext(ThemeContext);
+
   const changeNavbarColor = () => {
     if (window.scrollY >= 80) {
       setColorchange(true);
