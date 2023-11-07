@@ -1,0 +1,20 @@
+.main-new {
+  width: auto;
+  height: 60px;
+}
+/* .cqNcJL a {
+  color: red !important;
+  cursor: pointer !important;
+} */
+.new-navlink-css {
+    color: red;
+     	display: flex;
+    	align-items: center;
+     	text-decoration: none;
+     	padding: 0 1rem;
+     	height: 100%;
+     	cursor: pointer;
+     	&.active {
+     		color: rgb(255, 0, 0);
+    	}
+}
